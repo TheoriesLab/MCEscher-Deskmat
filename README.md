@@ -4,6 +4,7 @@ Un deskmat basado en uno de los iconicos grabados de MC Escher. Añadiendole un 
 
 Por favor entienda que esta imagen fue un ejercicio de diseño y que la imagen original tiene derechos de autor (M.C. Escher Foundation) por la tanto no haga negocio con esta imagen.
 
+
 A deskmat based on one of MC Escher's iconic prints. Adding a touch of color and a pattern that the graphic artist liked so much. The image is optimized to be printed on a 80cm x 30cm deskmat.
 
 Please understand that this image was a design exercise and that the original image is copyrighted (M.C. Escher Foundation) so do not do business with this image.
@@ -14,6 +15,7 @@ Please understand that this image was a design exercise and that the original im
 La imagen en formato .tiff esta disponible a traves de este enlace
 
 The image in .tiff format is available through this link 
+
 https://www.mediafire.com/file/hacu6c6o5ldpk17/MCEscher_Deskmat.tif/file
 
 
