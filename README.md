@@ -12,6 +12,7 @@ Please understand that this image was a design exercise and that the original im
 ![escherdeskmat](https://user-images.githubusercontent.com/92544033/169921968-64b098c9-63a8-48b7-9212-da7bb4999d71.jpg)
 
 La imagen en formato .tiff esta disponible a traves de este enlace
+
 The image in .tiff format is available through this link 
 https://www.mediafire.com/file/hacu6c6o5ldpk17/MCEscher_Deskmat.tif/file
 
