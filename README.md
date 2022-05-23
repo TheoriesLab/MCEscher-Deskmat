@@ -21,6 +21,8 @@ https://www.mediafire.com/file/hacu6c6o5ldpk17/MCEscher_Deskmat.tif/file
 
 
 Si te ha gustado la imagen y quieres apoyarme, te dejo el enlace a mi ko-fi por si quieres invitarme a un cafe.
+
 If you liked the image and want to support me, I'll leave you the link to my ko-fi in case you want to invite me to a coffee.
+
 https://ko-fi.com/tocdesigns
 
