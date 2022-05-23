@@ -9,7 +9,7 @@ A deskmat based on one of MC Escher's iconic prints. Adding a touch of color and
 
 Please understand that this image was a design exercise and that the original image is copyrighted (M.C. Escher Foundation) so do not do business with this image.
 
-## Photo
+## Foto / Photo
 ![escherdeskmat](https://user-images.githubusercontent.com/92544033/169921968-64b098c9-63a8-48b7-9212-da7bb4999d71.jpg)
 
 La imagen en formato .tiff esta disponible a traves de este enlace
