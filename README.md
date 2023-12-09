@@ -24,5 +24,5 @@ Si te ha gustado la imagen y quieres apoyarme, te dejo el enlace a mi ko-fi por 
 
 If you liked the image and want to support me, I'll leave you the link to my ko-fi in case you want to invite me to a coffee.
 
-https://ko-fi.com/tocdesigns
+https://ko-fi.com/theoriesstudio
 
